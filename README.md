@@ -4,7 +4,7 @@ pkg install bash nodejs ffmpeg libwebp git mc yarn
 
 git clone https://github.com/danisnas/V10.git
 
-cd V10
+cd V10-masterV10-master
 
 yarn
 
@@ -20,6 +20,6 @@ termux-setup-storage
 
 cd /sdcard
 
-cd V10
+cd V10-masterV10-master
 
 npm start
