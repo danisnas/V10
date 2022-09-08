@@ -23,3 +23,5 @@ cd /sdcard
 cd V10-masterV10-master
 
 npm start
+
+a
